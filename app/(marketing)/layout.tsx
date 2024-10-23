@@ -1,5 +1,5 @@
 import Navbar from "./_components/navbar"
-import Footer from "./_components/navbar copy"
+import Footer from "./_components/footer"
 
 const MarketingLayout = ({ 
     children 
